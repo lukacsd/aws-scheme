@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView
+        android:id="@+id/zoneMetaScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/zoneMetaLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/fragmentVerticalMargin"
+            android:paddingLeft="@dimen/fragmentHorizontalMargin"
+            android:paddingRight="@dimen/fragmentHorizontalMargin"
+            android:paddingTop="@dimen/fragmentVerticalMargin" >
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

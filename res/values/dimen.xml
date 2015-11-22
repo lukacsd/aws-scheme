@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fragmentHorizontalMargin">16dp</dimen>
+    <dimen name="fragmentVerticalMargin">16dp</dimen>
+    <dimen name="hostnameLabelTextSize">16sp</dimen>
+    <dimen name="rowMarginSmall">5dp</dimen>
+    <dimen name="drawerLayoutWidth">200dp</dimen>
+    <dimen name="drawerRowHeight">50dp</dimen>
+    <dimen name="drawerItemMargin">10dp</dimen>
+    <dimen name="resourceStateViewWidth">10dp</dimen>
+    <dimen name="resourceStateViewMarginBottom">2dp</dimen>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aws-scheme</string>
+    <string name="menuJumpToHost">Jump to Host</string>
+    <string name="menuRefreshSnapshot">Refresh</string>
+    <string name="drawerOpen">Navigation Drawer Open</string>
+    <string name="drawerClose">Navigation Drawer Close</string>
+    <string name="hostnameLabel">Hostname</string>
+    <string name="regionLabel">Region</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="dialogJumpToHost">Jump to Host</string>
+    <string name="activateSchemeMessage">Activate "%1s" ?</string>
+    <string name="activateSchemeSwitch">Active</string>
+    <string name="zoneMetaFragmentTitle">META</string>
+    <string name="accountParagraphTitle">account</string>
+    <string name="accountParagraphId">Account Id</string>
+    <string name="accountParagraphAlias">Account Alias</string>
+    <string name="billingParagraphTitle">billing</string>
+    <string name="billingParagraphMontToDate">Month to date</string>
+    <string name="billingParagraphPreviousMonth">Previous</string>
+    <string name="regionParagraphTitle">region</string>
+    <string name="networkConnectionRequiredMsg">Network connection required</string>
+    <string name="updatingClusterSnapshotMsg">Updating cluster snapshot</string>
+    <string name="updatingClusterSchemeMsg">Updating cluster scheme</string>
+    <string name="getClusterSnapshotStep1">1 / 3 describe zones</string>
+    <string name="getClusterSnapshotStep2">2 / 3 collect schemes</string>
+    <string name="getClusterSnapshotStep3">3 / 3 describe instances</string>
+    <string name="setActiveRoleStep1">1 / 3 start up new scheme instances</string>
+    <string name="setActiveRoleStep2">2 / 3 assign public address to new scheme</string>
+    <string name="setActiveRoleStep3">3 / 3 shut down old scheme instances</string>
+
+</resources>

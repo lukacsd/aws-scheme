@@ -1,0 +1,8 @@
+<Spinner xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/accountNameSpinner"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/icsDarkGray"
+    android:minHeight="@dimen/drawerRowHeight"
+    android:paddingLeft="@dimen/drawerItemMargin"
+    android:paddingRight="@dimen/drawerItemMargin" />
